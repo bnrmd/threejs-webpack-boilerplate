@@ -58,7 +58,7 @@
 	```
 	Windows:
 	```css
-	Dear Windows, you are not worth my time; but should be very similar to linux :-p
+	Should be same steps as Linux...
 	```
 
 4. Initialize your package.json
@@ -208,4 +208,3 @@
 		}
 	```
 
-16. The end
